@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendasAPI", "VendasAPI.csproj", "{FC3D9EB0-C43B-4F72-81AA-17F9CBCB4414}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VendasAPI", "VendasAPI.csproj", "{09EC7332-6341-4C80-BBE9-01DEF7587017}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FC3D9EB0-C43B-4F72-81AA-17F9CBCB4414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FC3D9EB0-C43B-4F72-81AA-17F9CBCB4414}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FC3D9EB0-C43B-4F72-81AA-17F9CBCB4414}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FC3D9EB0-C43B-4F72-81AA-17F9CBCB4414}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09EC7332-6341-4C80-BBE9-01DEF7587017}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09EC7332-6341-4C80-BBE9-01DEF7587017}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09EC7332-6341-4C80-BBE9-01DEF7587017}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09EC7332-6341-4C80-BBE9-01DEF7587017}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BEF9BC7E-4040-4A22-8CE1-663E4AAD912D}
+		SolutionGuid = {3DEEE75A-BB10-4A1D-ADFE-423274289B94}
 	EndGlobalSection
 EndGlobal
